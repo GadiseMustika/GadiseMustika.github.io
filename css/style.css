@@ -1,0 +1,27 @@
+.slider h3,
+.slider h5,
+.Cust h3{
+    text-shadow: 1px 1px 3px  rgba(34, 34, 34, 0.863);
+}
+
+.parallax-container{
+    height:100%;
+}
+
+.parallax img{
+  
+    opacity: 0.5 !important;
+}
+
+.Cust img {
+    max-width: 150px;
+    filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.8)) !important;
+}
+
+section{
+    padding: 20px 0;
+}
+
+section,footer{
+    padding: 20px 0;
+}
